@@ -1,0 +1,4015 @@
+{
+    "NBASZN": [
+        "173",
+        {
+            "id": "79555",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Bam_Adebayo_11c303dc-540c-4090-8e0c-76c2fb2c125a.webp",
+            "name": "Bam Adebayo",
+            "position": "C",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "143533",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000441.png",
+            "name": "Bradley Beal",
+            "position": "SG",
+            "team": "PHX",
+            "lines": []
+        },
+        {
+            "id": "143532",
+            "image_url": "https://i.imgur.com/Kk4BgXk.png",
+            "name": "Brandon Miller ",
+            "position": "F",
+            "team": "CHA",
+            "lines": []
+        },
+        {
+            "id": "143530",
+            "image_url": "https://i.imgur.com/YQrRKfa.png",
+            "name": "Victor Wembanyama",
+            "position": "F/C",
+            "team": "SAS",
+            "lines": []
+        },
+        {
+            "id": "53230",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000497.png",
+            "name": "Giannis Antetokounmpo",
+            "position": "PF",
+            "team": "MIL",
+            "lines": []
+        },
+        {
+            "id": "53227",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000485.png",
+            "name": "Stephen Curry",
+            "position": "PG",
+            "team": "GSW",
+            "lines": []
+        },
+        {
+            "id": "79562",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Darius_Garland_b79b88e1-35ef-4947-8a61-f6ec631a1e15.webp",
+            "name": "Darius Garland",
+            "position": "G",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "53252",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000549.png",
+            "name": "Clint Capela",
+            "position": "C",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "53226",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001984.png",
+            "name": "Luka Doncic",
+            "position": "PG",
+            "team": "DAL",
+            "lines": []
+        },
+        {
+            "id": "53241",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000571.png",
+            "name": "Lebron James",
+            "position": "SF",
+            "team": "LAL",
+            "lines": []
+        },
+        {
+            "id": "53233",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001989.png",
+            "name": "Trae Young",
+            "position": "PG",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "53255",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001683.png",
+            "name": "Domantas Sabonis",
+            "position": "C",
+            "team": "SAC",
+            "lines": []
+        },
+        {
+            "id": "143536",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Shai_Gilgeous-Alexander_d9ea4a8f-ff51-408d-b518-980efc2a35a1.webp\t",
+            "name": "Shai Gilgeous-Alexander",
+            "position": "G",
+            "team": "OKC",
+            "lines": []
+        },
+        {
+            "id": "79563",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1.webp",
+            "name": "Tyrese Haliburton",
+            "position": "G",
+            "team": "IND",
+            "lines": []
+        },
+        {
+            "id": "143531",
+            "image_url": "https://i.imgur.com/fEx4V1X.png",
+            "name": "Scoot Henderson",
+            "position": "G",
+            "team": "POR",
+            "lines": []
+        },
+        {
+            "id": "53253",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000840.png",
+            "name": "Rudy Gobert",
+            "position": "C",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "87419",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Josh_Giddey_66ea876a-1cc9-47ed-ae31-2ed3c8f9350e.webp\t",
+            "name": "Josh Giddey",
+            "position": "SG",
+            "team": "OKC",
+            "lines": []
+        },
+        {
+            "id": "53244",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001441.png",
+            "name": "Nikola Jokic",
+            "position": "C",
+            "team": "DEN",
+            "lines": []
+        },
+        {
+            "id": "143534",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Kristaps_Porzingis_3c5901ef-af1d-441d-aeed-8e0a93cead49.webp",
+            "name": "Kristaps Porzingis",
+            "position": "F-C",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "79578",
+            "image_url": "https://static.prizepicks.com/images/players/nba/Jayson_Tatum_98136da3-452f-49dc-a794-1ee9c76443f2.webp",
+            "name": "Jayson Tatum",
+            "position": "F",
+            "team": "BOS",
+            "lines": []
+        }
+    ],
+    "World Cup": [
+        "241",
+        {
+            "id": "145689",
+            "image_url": "https://i.imgur.com/ZvVN5XF.png",
+            "name": "Sophia Smith",
+            "position": "F",
+            "team": "United States",
+            "lines": []
+        },
+        {
+            "id": "145682",
+            "image_url": "https://i.imgur.com/tsF7OaB.png",
+            "name": "Esther Gonzalez",
+            "position": "F",
+            "team": "Spain",
+            "lines": []
+        },
+        {
+            "id": "145676",
+            "image_url": "https://i.imgur.com/oR6ym3S.png",
+            "name": "Ada Hegerberg",
+            "position": "F",
+            "team": "Norway",
+            "lines": []
+        },
+        {
+            "id": "145677",
+            "image_url": "https://i.imgur.com/dzl1sfS.png",
+            "name": "Alessia Russo",
+            "position": "F",
+            "team": "England",
+            "lines": []
+        },
+        {
+            "id": "145690",
+            "image_url": "https://i.imgur.com/cGbKUWi.png",
+            "name": "Stina Blackstenius",
+            "position": "F",
+            "team": "Sweden",
+            "lines": []
+        },
+        {
+            "id": "145688",
+            "image_url": "https://i.imgur.com/DxM7NF6.png",
+            "name": "Sam Kerr",
+            "position": "F",
+            "team": "Australia",
+            "lines": []
+        },
+        {
+            "id": "145680",
+            "image_url": "https://i.imgur.com/DxkuWz7.png",
+            "name": "Barbra Banda",
+            "position": "F",
+            "team": "Zambia",
+            "lines": []
+        },
+        {
+            "id": "145683",
+            "image_url": "https://i.imgur.com/ecmTrrg.png",
+            "name": "Eugenie Le Sommer",
+            "position": "F",
+            "team": "France",
+            "lines": []
+        },
+        {
+            "id": "145684",
+            "image_url": "https://i.imgur.com/dzl1sfS.png",
+            "name": "Lauren Hemp",
+            "position": "F",
+            "team": "England",
+            "lines": []
+        },
+        {
+            "id": "145681",
+            "image_url": "https://i.imgur.com/IVwszMu.png",
+            "name": "Christine Sinclair",
+            "position": "F",
+            "team": "Canada",
+            "lines": []
+        },
+        {
+            "id": "145678",
+            "image_url": "https://i.imgur.com/ZvVN5XF.png",
+            "name": "Alex Morgan",
+            "position": "F",
+            "team": "United States",
+            "lines": []
+        },
+        {
+            "id": "145679",
+            "image_url": "https://i.imgur.com/tsF7OaB.png",
+            "name": "Alexia Putellas",
+            "position": "MF",
+            "team": "Spain",
+            "lines": []
+        }
+    ],
+    "WNBA": [
+        "3",
+        {
+            "id": "64365",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Alyssa_Thomas_87a32879-a19b-4603-86ce-1c8b0e4484ad.webp",
+            "name": "Alyssa Thomas",
+            "position": "F",
+            "team": "CON",
+            "lines": []
+        },
+        {
+            "id": "64502",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Sophie_Cunningham_6f20a6c1-04f6-4be2-b7a2-511ebe314525.webp",
+            "name": "Sophie Cunningham",
+            "position": "G",
+            "team": "PHO",
+            "lines": []
+        },
+        {
+            "id": "64531",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/DeWanna_Bonner_b262f7f1-1c78-406c-86aa-7ad15122931f.webp",
+            "name": "DeWanna Bonner",
+            "position": "F-G",
+            "team": "CON",
+            "lines": []
+        },
+        {
+            "id": "141529",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Tiffany_Hayes_f24ac568-77f4-4344-84a7-7fde145dda84.webp",
+            "name": "Tiffany Hayes",
+            "position": "G",
+            "team": "CON",
+            "lines": []
+        },
+        {
+            "id": "64425",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Diana_Taurasi_d9bce234-085d-4b85-be5f-9b7020b82e69.webp",
+            "name": "Diana Taurasi",
+            "position": "G",
+            "team": "PHO",
+            "lines": []
+        },
+        {
+            "id": "66016",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Brittney_Griner_03e541cb-d11c-4975-b656-f6e7febcda7d.webp",
+            "name": "Brittney Griner",
+            "position": "C",
+            "team": "PHO",
+            "lines": []
+        },
+        {
+            "id": "64533",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Kayla_McBride_b404562d-a1fd-446f-bcd0-6b545dfde9c6.webp",
+            "name": "Kayla McBride",
+            "position": "G",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "141602",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Allisha_Gray_293b5925-fd31-4640-8ada-bf6451a2c488.webp",
+            "name": "Allisha Gray",
+            "position": "G",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "64371",
+            "image_url": "https://i.imgur.com/gYZGPxk.png",
+            "name": "Rhyne Howard",
+            "position": "G",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "64372",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Cheyenne_Parker_4a97e708-71e5-4d58-b1e8-883adf027925.webp",
+            "name": "Cheyenne Parker",
+            "position": "F",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "65852",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Napheesa_Collier_21f994d2-1cc9-4d83-b278-abc3aaf4f63d.webp",
+            "name": "Napheesa Collier",
+            "position": "F",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "142075",
+            "image_url": "https://i.imgur.com/DXNZywQ.png",
+            "name": "Diamond Miller",
+            "position": "G",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "64507",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Natisha_Hiedeman_43135c04-f4c8-490d-ad59-0eb2e9f2f6cf.webp",
+            "name": "Natisha Hiedeman",
+            "position": "G",
+            "team": "CON",
+            "lines": []
+        }
+    ],
+    "MLB": [
+        "2",
+        {
+            "id": "145821",
+            "image_url": "https://static.prizepicks.com/images/players/placeholder.png",
+            "name": "Tyler Soderstrom",
+            "position": "C",
+            "team": "OAK",
+            "lines": []
+        },
+        {
+            "id": "127251",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Christian_Arroyo_1d6fc3c6-7172-4189-bf35-dfafd17e37e6.webp",
+            "name": "Christian Arroyo",
+            "position": "IF",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "79487",
+            "image_url": "https://static.prizepicks.com/images/players/placeholder.png",
+            "name": "Yu Chang",
+            "position": "IF",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "68585",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Gleyber_Torres_781d3396-df55-4b42-bea4-5c9cad9dcad0.webp",
+            "name": "Gleyber Torres",
+            "position": "IF",
+            "team": "NYY",
+            "lines": []
+        },
+        {
+            "id": "67898",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Logan_Gilbert_d3a08e67-05e9-4f54-b7b1-807c8e9beaf2.webp",
+            "name": "Logan Gilbert",
+            "position": "P",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "127738",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Michael_A._Taylor_9fd5e31f-8188-48bf-a93b-c9d9dbd29265.webp",
+            "name": "Michael A. Taylor",
+            "position": "OF",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "140854",
+            "image_url": "https://i.imgur.com/hnIhYNu.png",
+            "name": "Jose Caballero",
+            "position": "IF",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "145886",
+            "image_url": "https://i.imgur.com/3FMXXNc.png",
+            "name": "Logan Gilbert + Sonny Gray",
+            "position": "SP",
+            "team": "SEA/MIN",
+            "lines": []
+        },
+        {
+            "id": "67622",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Giancarlo_Stanton_b54ace79-5c94-45d1-873a-7ae90e5c6726.webp",
+            "name": "Giancarlo Stanton",
+            "position": "DH",
+            "team": "NYY",
+            "lines": []
+        },
+        {
+            "id": "145909",
+            "image_url": "https://i.imgur.com/C9iIzps.png",
+            "name": "Gleyber Torres + Shohei Ohtani",
+            "position": "IF/DH",
+            "team": "NYY/LAA",
+            "lines": []
+        },
+        {
+            "id": "140086",
+            "image_url": "https://i.imgur.com/fBaEM0I.png",
+            "name": "Zach Neto",
+            "position": "IF",
+            "team": "LAA",
+            "lines": []
+        },
+        {
+            "id": "67767",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Alex_Verdugo_6f7a2f3c-0341-47be-a60a-f6c15d7a9a0b.webp",
+            "name": "Alex Verdugo",
+            "position": "OF",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "67593",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Paul_Blackburn_c967b600-efdf-46ae-bb37-f4940fa29b2a.webp",
+            "name": "Paul Blackburn",
+            "position": "P",
+            "team": "OAK",
+            "lines": []
+        },
+        {
+            "id": "67645",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Jarren_Duran_b8124420-b124-4e28-a719-c7a124917735.webp",
+            "name": "Jarren Duran",
+            "position": "OF",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "67539",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Sonny_Gray_b004cc6c-f00c-4b5d-917a-ee1abf92179d.webp",
+            "name": "Sonny Gray",
+            "position": "P",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "67821",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Nick_Allen_41f7dadd-2ae7-4a39-8e9a-a0948f27cf90.webp",
+            "name": "Nick Allen",
+            "position": "IF",
+            "team": "OAK",
+            "lines": []
+        },
+        {
+            "id": "67509",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Byron_Buxton_f45963f1-0379-45da-9e2b-c6a099910a35.webp",
+            "name": "Byron Buxton",
+            "position": "DH",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "142315",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Mike_Ford_eedd0e21-283e-4534-aa38-afe98d4415a1.webp",
+            "name": "Mike Ford",
+            "position": "IF",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "140725",
+            "image_url": "https://static.prizepicks.com/images/players/placeholder.png",
+            "name": "JJ Bleday",
+            "position": "OF",
+            "team": "OAK",
+            "lines": []
+        },
+        {
+            "id": "128102",
+            "image_url": "https://static.prizepicks.com/images/players/placeholder.png",
+            "name": "Ryan Noda",
+            "position": "IF",
+            "team": "OAK",
+            "lines": []
+        },
+        {
+            "id": "125900",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Griffin_Canning_470b008b-639b-4f14-975b-1eb51d918358.webp",
+            "name": "Griffin Canning",
+            "position": "P",
+            "team": "LAA",
+            "lines": []
+        },
+        {
+            "id": "70168",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Mickey_Moniak_7af39f78-8e04-408d-a1b5-66ab3dcd99ac.webp",
+            "name": "Mickey Moniak",
+            "position": "OF",
+            "team": "LAA",
+            "lines": []
+        },
+        {
+            "id": "127283",
+            "image_url": "https://static.prizepicks.com/images/players/placeholder.png",
+            "name": "Masataka Yoshida",
+            "position": "OF",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "145901",
+            "image_url": "https://i.imgur.com/C9iIzps.png",
+            "name": "Luis Severino + Griffin Canning",
+            "position": "SP",
+            "team": "NYY/LAA",
+            "lines": []
+        },
+        {
+            "id": "67566",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Julio_Rodríguez_e750ccd5-7a24-44ef-b661-0d41baa17d1c.webp",
+            "name": "Julio Rodríguez",
+            "position": "OF",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "67551",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Taylor_Ward_ddecbea2-f3dd-44de-8e87-da1541bf1a61.webp",
+            "name": "Taylor Ward",
+            "position": "OF",
+            "team": "LAA",
+            "lines": []
+        },
+        {
+            "id": "67511",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Carlos_Correa_3259a7ad-0490-4912-bd86-d06bf3ac91e0.webp",
+            "name": "Carlos Correa",
+            "position": "IF",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "127131",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Justin_Turner_893e5243-1278-476c-8801-280b9b14aea7.webp",
+            "name": "Justin Turner",
+            "position": "DH",
+            "team": "BOS",
+            "lines": []
+        },
+        {
+            "id": "73809",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Isiah_Kiner-Falefa_283f2c57-6441-4173-b5a0-728e46b8c894.webp",
+            "name": "Isiah Kiner-Falefa",
+            "position": "OF",
+            "team": "NYY",
+            "lines": []
+        },
+        {
+            "id": "68128",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Luis_Severino_fa34724d-b540-4705-9d2c-7f50f81865b3.webp",
+            "name": "Luis Severino",
+            "position": "P",
+            "team": "NYY",
+            "lines": []
+        },
+        {
+            "id": "67550",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Shohei_Ohtani_80de60c9-74e3-4a50-b128-b3dc7456a254.webp",
+            "name": "Shohei Ohtani",
+            "position": "DH",
+            "team": "LAA",
+            "lines": []
+        }
+    ],
+    "LoL": [
+        "121",
+        {
+            "id": "95599",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/AK_Zothve_2022_Closing.png",
+            "name": "Zothve",
+            "position": "TOP",
+            "team": "EST",
+            "lines": []
+        },
+        {
+            "id": "95305",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a8/PGG_Praedyth_2020_Split_1.png",
+            "name": "Praedyth",
+            "position": "BOT",
+            "team": "DW",
+            "lines": []
+        },
+        {
+            "id": "95328",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/OPL_Shernfire_2022_Split_2.png",
+            "name": "Shernfire",
+            "position": "JNG",
+            "team": "PGG",
+            "lines": []
+        },
+        {
+            "id": "40462",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/FLY_Josedeodo_2022_Split_2.png",
+            "name": "Josedeodo",
+            "position": "JNG",
+            "team": "EST",
+            "lines": []
+        },
+        {
+            "id": "95605",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/INF_Keine_2023_Opening.png",
+            "name": "Keine",
+            "position": "MID",
+            "team": "INF",
+            "lines": []
+        },
+        {
+            "id": "142255",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "Tomasino",
+            "position": "BOT",
+            "team": "VTX",
+            "lines": []
+        },
+        {
+            "id": "95602",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/EST_Hans_SamD_2023_Opening.png",
+            "name": "Hans SamD",
+            "position": "BOT",
+            "team": "EST",
+            "lines": []
+        },
+        {
+            "id": "142257",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "Chirp",
+            "position": "MID",
+            "team": "VTX",
+            "lines": []
+        },
+        {
+            "id": "95303",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "Zorenous",
+            "position": "TOP",
+            "team": "DW",
+            "lines": []
+        },
+        {
+            "id": "142290",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/GET_Puentinho_2023_Opening.png",
+            "name": "Rahab",
+            "position": "TOP",
+            "team": "LEV",
+            "lines": []
+        },
+        {
+            "id": "95310",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "Danteh",
+            "position": "BOT",
+            "team": "VTX",
+            "lines": []
+        },
+        {
+            "id": "142342",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/46/PAM_ZO3N_2023_Opening.png",
+            "name": "Z03N",
+            "position": "TOP",
+            "team": "INF",
+            "lines": []
+        },
+        {
+            "id": "142292",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/PAM_Kiefer_2023_Opening.png",
+            "name": "Kiefer",
+            "position": "MID",
+            "team": "LEV",
+            "lines": []
+        },
+        {
+            "id": "95327",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/DW_Chippys_2020_Split_1.png",
+            "name": "Chippys",
+            "position": "TOP",
+            "team": "PGG",
+            "lines": []
+        },
+        {
+            "id": "95970",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/AK_Leza_2023_Opening.png",
+            "name": "Leza",
+            "position": "MID",
+            "team": "EST",
+            "lines": []
+        },
+        {
+            "id": "38634",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/INF_Solid_2023_Opening.png",
+            "name": "SolidSnake",
+            "position": "JNG",
+            "team": "INF",
+            "lines": []
+        },
+        {
+            "id": "142246",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/08/CLG_Thien_2021_Split_1.png",
+            "name": "Thien",
+            "position": "TOP",
+            "team": "MEC",
+            "lines": []
+        },
+        {
+            "id": "95613",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/6K_Snaker_2023_Opening.png",
+            "name": "Snaker",
+            "position": "BOT",
+            "team": "6K",
+            "lines": []
+        },
+        {
+            "id": "53634",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/GG.A_Violet_2022_Split_1.png",
+            "name": "Violet",
+            "position": "BOT",
+            "team": "PGG",
+            "lines": []
+        },
+        {
+            "id": "142247",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/PGG_Souli_2020_Split_1.png",
+            "name": "Souli",
+            "position": "JNG",
+            "team": "MEC",
+            "lines": []
+        },
+        {
+            "id": "15038",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/6K_OnFleek_2023_Opening.png",
+            "name": "OnFleek",
+            "position": "JNG",
+            "team": "6K",
+            "lines": []
+        },
+        {
+            "id": "95329",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "DONGGY",
+            "position": "MID",
+            "team": "PGG",
+            "lines": []
+        },
+        {
+            "id": "95612",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/6K_Meaning_2023_Opening.png",
+            "name": "Meaning",
+            "position": "TOP",
+            "team": "6K",
+            "lines": []
+        },
+        {
+            "id": "142291",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/PAM_Pancake_2023_Opening.png",
+            "name": "Pancake",
+            "position": "JNG",
+            "team": "LEV",
+            "lines": []
+        },
+        {
+            "id": "38637",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/MCON_Chazz_2022_Split_2.png",
+            "name": "Chazz",
+            "position": "MID",
+            "team": "DW",
+            "lines": []
+        },
+        {
+            "id": "142293",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8f/LEV_Nothing_2023_Opening.png",
+            "name": "Nothing",
+            "position": "BOT",
+            "team": "LEV",
+            "lines": []
+        },
+        {
+            "id": "145947",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "Goodo",
+            "position": "JNG",
+            "team": "VTX",
+            "lines": []
+        },
+        {
+            "id": "64410",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/70/INF_5kid_2023_Opening.png",
+            "name": "5kid",
+            "position": "BOT",
+            "team": "INF",
+            "lines": []
+        },
+        {
+            "id": "95326",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "Chayon",
+            "position": "BOT",
+            "team": "MEC",
+            "lines": []
+        },
+        {
+            "id": "95320",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Unknown_Infobox_Image_-_Player.png",
+            "name": "DaJeung",
+            "position": "MID",
+            "team": "MEC",
+            "lines": []
+        },
+        {
+            "id": "142692",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6e/Team_Cat_Ko1eee_2021.png",
+            "name": "sHAKa",
+            "position": "JNG",
+            "team": "DW",
+            "lines": []
+        },
+        {
+            "id": "38632",
+            "image_url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/6K_cody_2023_Opening.png",
+            "name": "cody",
+            "position": "MID",
+            "team": "6K",
+            "lines": []
+        }
+    ],
+    "NBASL": [
+        "40",
+        {
+            "id": "145033",
+            "image_url": "https://i.imgur.com/Y6eeg1m.png",
+            "name": "Isaiah Mobley",
+            "position": "F",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "145089",
+            "image_url": "https://i.imgur.com/SOGriq4.png",
+            "name": "Nate Hinton",
+            "position": "G",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "145032",
+            "image_url": "https://i.imgur.com/Y6eeg1m.png",
+            "name": "Sam Merrill",
+            "position": "G",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "145037",
+            "image_url": "https://i.imgur.com/Y6eeg1m.png",
+            "name": "Luke Travers",
+            "position": "F",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "145035",
+            "image_url": "https://i.imgur.com/Y6eeg1m.png",
+            "name": "Craig Porter Jr.",
+            "position": "G",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "145099",
+            "image_url": "https://i.imgur.com/SOGriq4.png",
+            "name": "Jermaine Samuels Jr.",
+            "position": "F",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "145102",
+            "image_url": "https://i.imgur.com/SOGriq4.png",
+            "name": "Cam Whitmore",
+            "position": "F",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "145026",
+            "image_url": "https://i.imgur.com/Y6eeg1m.png",
+            "name": "Emoni Bates",
+            "position": "G",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "145090",
+            "image_url": "https://i.imgur.com/SOGriq4.png",
+            "name": "Trevor Hudgins",
+            "position": "G",
+            "team": "HOU",
+            "lines": []
+        }
+    ],
+    "VAL": [
+        "159",
+        {
+            "id": "51106",
+            "image_url": "https://i.imgur.com/ic1WXRc.png",
+            "name": "takej",
+            "position": "G",
+            "team": "Detonation FocusMe",
+            "lines": []
+        },
+        {
+            "id": "96025",
+            "image_url": "https://i.imgur.com/ic1WXRc.png",
+            "name": "Seoldam",
+            "position": "G",
+            "team": "Detonation FocusMe",
+            "lines": []
+        },
+        {
+            "id": "68470",
+            "image_url": "https://i.imgur.com/UlSHkZL.png",
+            "name": "Tacolilla",
+            "position": "G",
+            "team": "Leviatán",
+            "lines": []
+        },
+        {
+            "id": "68474",
+            "image_url": "https://i.imgur.com/UlSHkZL.png",
+            "name": "Shyy",
+            "position": "G",
+            "team": "Leviatán",
+            "lines": []
+        },
+        {
+            "id": "51083",
+            "image_url": "https://i.imgur.com/BZHhkYO.png",
+            "name": "keznit",
+            "position": "G",
+            "team": "KRÜ Esports",
+            "lines": []
+        },
+        {
+            "id": "39468",
+            "image_url": "https://i.imgur.com/BZHhkYO.png",
+            "name": "NagZet",
+            "position": "G",
+            "team": "KRÜ Esports",
+            "lines": []
+        },
+        {
+            "id": "68478",
+            "image_url": "https://i.imgur.com/ic1WXRc.png",
+            "name": "xnfri",
+            "position": "G",
+            "team": "Detonation FocusMe",
+            "lines": []
+        },
+        {
+            "id": "39479",
+            "image_url": "https://i.imgur.com/Z0jI73u.png",
+            "name": "patt",
+            "position": "G",
+            "team": "Talon Esports",
+            "lines": []
+        },
+        {
+            "id": "96019",
+            "image_url": "https://i.imgur.com/BZHhkYO.png",
+            "name": "Daveeys",
+            "position": "G",
+            "team": "KRÜ Esports",
+            "lines": []
+        },
+        {
+            "id": "39476",
+            "image_url": "https://i.imgur.com/Z0jI73u.png",
+            "name": "Foxz",
+            "position": "G",
+            "team": "Talon Esports",
+            "lines": []
+        },
+        {
+            "id": "96045",
+            "image_url": "https://i.imgur.com/Z0jI73u.png",
+            "name": "garnetS",
+            "position": "G",
+            "team": "Talon Esports",
+            "lines": []
+        },
+        {
+            "id": "68471",
+            "image_url": "https://i.imgur.com/BZHhkYO.png",
+            "name": "Melser",
+            "position": "G",
+            "team": "KRÜ Esports",
+            "lines": []
+        },
+        {
+            "id": "56868",
+            "image_url": "https://i.imgur.com/UlSHkZL.png",
+            "name": "nzr",
+            "position": "G",
+            "team": "Leviatán",
+            "lines": []
+        },
+        {
+            "id": "68473",
+            "image_url": "https://i.imgur.com/UlSHkZL.png",
+            "name": "kiNgg",
+            "position": "G",
+            "team": "Leviatán",
+            "lines": []
+        },
+        {
+            "id": "39475",
+            "image_url": "https://i.imgur.com/Z0jI73u.png",
+            "name": "Crws",
+            "position": "G",
+            "team": "Talon Esports",
+            "lines": []
+        },
+        {
+            "id": "96026",
+            "image_url": "https://i.imgur.com/ic1WXRc.png",
+            "name": "Anthem",
+            "position": "G",
+            "team": "Detonation FocusMe",
+            "lines": []
+        }
+    ],
+    "WNBA1H": [
+        "193",
+        {
+            "id": "65169",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Natisha_Hiedeman_43135c04-f4c8-490d-ad59-0eb2e9f2f6cf.webp",
+            "name": "Natisha Hiedeman",
+            "position": "G",
+            "team": "CON",
+            "lines": []
+        },
+        {
+            "id": "141734",
+            "image_url": "https://i.imgur.com/DXNZywQ.png",
+            "name": "Diamond Miller",
+            "position": "G",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "65189",
+            "image_url": "https://i.imgur.com/gYZGPxk.png",
+            "name": "Rhyne Howard",
+            "position": "G",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "65190",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Cheyenne_Parker_4a97e708-71e5-4d58-b1e8-883adf027925.webp",
+            "name": "Cheyenne Parker",
+            "position": "F",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "67135",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Sophie_Cunningham_6f20a6c1-04f6-4be2-b7a2-511ebe314525.webp",
+            "name": "Sophie Cunningham",
+            "position": "G",
+            "team": "PHO",
+            "lines": []
+        },
+        {
+            "id": "70537",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Napheesa_Collier_21f994d2-1cc9-4d83-b278-abc3aaf4f63d.webp",
+            "name": "Napheesa Collier",
+            "position": "F",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "141605",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Allisha_Gray_293b5925-fd31-4640-8ada-bf6451a2c488.webp",
+            "name": "Allisha Gray",
+            "position": "G",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "65195",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Kayla_McBride_b404562d-a1fd-446f-bcd0-6b545dfde9c6.webp",
+            "name": "Kayla McBride",
+            "position": "G",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "141555",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Brittney_Griner_03e541cb-d11c-4975-b656-f6e7febcda7d.webp",
+            "name": "Brittney Griner",
+            "position": "C",
+            "team": "PHO",
+            "lines": []
+        },
+        {
+            "id": "65165",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/DeWanna_Bonner_b262f7f1-1c78-406c-86aa-7ad15122931f.webp",
+            "name": "DeWanna Bonner",
+            "position": "F-G",
+            "team": "CON",
+            "lines": []
+        },
+        {
+            "id": "65163",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Alyssa_Thomas_87a32879-a19b-4603-86ce-1c8b0e4484ad.webp",
+            "name": "Alyssa Thomas",
+            "position": "F",
+            "team": "CON",
+            "lines": []
+        },
+        {
+            "id": "65154",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Diana_Taurasi_d9bce234-085d-4b85-be5f-9b7020b82e69.webp",
+            "name": "Diana Taurasi",
+            "position": "G",
+            "team": "PHO",
+            "lines": []
+        },
+        {
+            "id": "141533",
+            "image_url": "https://static.prizepicks.com/images/players/wnba/Tiffany_Hayes_f24ac568-77f4-4344-84a7-7fde145dda84.webp",
+            "name": "Tiffany Hayes",
+            "position": "G",
+            "team": "CON",
+            "lines": []
+        }
+    ],
+    "TENNIS": [
+        "5",
+        {
+            "id": "17139",
+            "image_url": "https://www.flashscore.com/res/image/data/2yxL4Ehl-xMtaH15H.png",
+            "name": "Bernarda Pera",
+            "position": "T",
+            "team": "Bernarda Pera",
+            "lines": []
+        },
+        {
+            "id": "17169",
+            "image_url": "https://www.flashscore.com/res/image/data/zHx6Inh5-jszfyHDm.png",
+            "name": "Yulia Putintseva",
+            "position": "T",
+            "team": "Yulia Putintseva",
+            "lines": []
+        },
+        {
+            "id": "20147",
+            "image_url": "https://www.flashscore.com/res/image/data/WIQmSXXg-SpxbAiaj.png",
+            "name": "Nadia Podoroska",
+            "position": "T",
+            "team": "Nadia Podoroska",
+            "lines": []
+        },
+        {
+            "id": "44467",
+            "image_url": "https://www.flashscore.com/res/image/data/8SBwQyFG-Mmm0CY32.png",
+            "name": "Elias Ymer",
+            "position": "T",
+            "team": "Elias Ymer",
+            "lines": []
+        },
+        {
+            "id": "17072",
+            "image_url": "https://www.flashscore.com/res/image/data/pl17lbcM-6Z7QoTsi.png",
+            "name": "Dayana Yastremska",
+            "position": "T",
+            "team": "Dayana Yastremska",
+            "lines": []
+        },
+        {
+            "id": "145949",
+            "image_url": "https://static.flashscore.com/res/image/data/hxg7KgZA-Wdcnkiqb.png",
+            "name": "Irene Burillo Escorihuela",
+            "position": "T",
+            "team": "Irene Burillo Escorihuela",
+            "lines": []
+        },
+        {
+            "id": "55792",
+            "image_url": "https://www.flashscore.com/res/image/data/futi5Qf5-hI8rc03T.png",
+            "name": "Sebastian Baez",
+            "position": "T",
+            "team": "Sebastian Baez",
+            "lines": []
+        },
+        {
+            "id": "60716",
+            "image_url": "https://www.flashscore.com/res/image/data/p2vtlMHG-dG6iQXC4.png",
+            "name": "Maria Camila Osorio Serrano",
+            "position": "T",
+            "team": "Maria Camila Osorio Serrano",
+            "lines": []
+        },
+        {
+            "id": "4174",
+            "image_url": "https://www.flashscore.com/res/image/data/jskPunCr-0rjbs2wm.png",
+            "name": "Stan Wawrinka",
+            "position": "T",
+            "team": "Stan Wawrinka",
+            "lines": []
+        },
+        {
+            "id": "55791",
+            "image_url": "https://www.flashscore.com/res/image/data/h4Dv6xjl-Ol58Nc7B.png",
+            "name": "Juan Manuel Cerundolo",
+            "position": "T",
+            "team": "Juan Manuel Cerundolo",
+            "lines": []
+        },
+        {
+            "id": "96229",
+            "image_url": "https://www.flashscore.com/res/image/data/AkxUWjzB-E7BdTJ1M.png",
+            "name": "Facundo Bagnis",
+            "position": "T",
+            "team": "Facundo Bagnis",
+            "lines": []
+        },
+        {
+            "id": "17936",
+            "image_url": "https://www.flashscore.com/res/image/data/fLk5DXhl-SbT3RDiH.png",
+            "name": "Alejandro Davidovich Fokina",
+            "position": "T",
+            "team": "Alejandro Davidovich Fokina",
+            "lines": []
+        },
+        {
+            "id": "125319",
+            "image_url": "https://www.flashscore.com/res/image/data/zcbevOfM-QcmIOCuc.png",
+            "name": "Mayar Sherif",
+            "position": "T",
+            "team": "Mayar Sherif",
+            "lines": []
+        },
+        {
+            "id": "57087",
+            "image_url": "https://www.flashscore.com/res/image/data/hfvGnwil-bgAvORXI.png",
+            "name": "Pavel Kotov",
+            "position": "T",
+            "team": "Pavel Kotov",
+            "lines": []
+        },
+        {
+            "id": "95561",
+            "image_url": "https://www.flashscore.com/res/image/data/nZEq0gf5-2qKsUIFj.png",
+            "name": "Arthur Fils",
+            "position": "T",
+            "team": "Arthur Fils",
+            "lines": []
+        },
+        {
+            "id": "49963",
+            "image_url": "https://www.flashscore.com/res/image/data/xE2OdKxS-j7uczja7.png",
+            "name": "Bernabe Zapata Miralles",
+            "position": "T",
+            "team": "Bernabe Zapata Miralles",
+            "lines": []
+        },
+        {
+            "id": "92602",
+            "image_url": "https://www.flashscore.com/res/image/data/0UrwMayS-bLA0zMba.png\t",
+            "name": "Tamara Korpatsch",
+            "position": "T",
+            "team": "Tamara Korpatsch",
+            "lines": []
+        },
+        {
+            "id": "17070",
+            "image_url": "https://www.flashscore.com/res/image/data/OnxasACa-4dvSgzVt.png",
+            "name": "Jasmine Paolini",
+            "position": "T",
+            "team": "Jasmine Paolini",
+            "lines": []
+        },
+        {
+            "id": "140",
+            "image_url": "https://www.flashscore.com/res/image/data/G4aAUuYg-8EbzeCHU.png",
+            "name": "Sara Sorribes Tormo",
+            "position": "T",
+            "team": "Sara Sorribes Tormo",
+            "lines": []
+        },
+        {
+            "id": "44457",
+            "image_url": "https://www.flashscore.com/res/image/data/G0T01vDa-l8UaSgxB.png",
+            "name": "Arthur Rinderknech",
+            "position": "T",
+            "team": "Arthur Rinderknech",
+            "lines": []
+        },
+        {
+            "id": "44498",
+            "image_url": "https://www.flashscore.com/res/image/data/dl2XzvZg-YXHRbAVm.png",
+            "name": "Tereza Martincova",
+            "position": "T",
+            "team": "Tereza Martincova",
+            "lines": []
+        },
+        {
+            "id": "60726",
+            "image_url": "https://www.flashscore.com/res/image/data/WdZZ3hFa-8fYqFF2n.png",
+            "name": "Shaui Zhang",
+            "position": "T",
+            "team": "Shaui Zhang",
+            "lines": []
+        },
+        {
+            "id": "44492",
+            "image_url": "https://www.flashscore.com/res/image/data/6m7j8Hil-noXmEZHh.png",
+            "name": "Roberto Carballes Baena",
+            "position": "T",
+            "team": "Roberto Carballes Baena",
+            "lines": []
+        },
+        {
+            "id": "44486",
+            "image_url": "https://www.flashscore.com/res/image/data/4IVY6sjl-Mmm0CY32.png",
+            "name": "Mikael Ymer",
+            "position": "T",
+            "team": "Mikael Ymer",
+            "lines": []
+        },
+        {
+            "id": "93",
+            "image_url": "https://www.flashscore.com/res/image/data/dvTGFYcM-fi0sHEOJ.png",
+            "name": "Albert Ramos-Vinolas",
+            "position": "T",
+            "team": "Albert Ramos-Vinolas",
+            "lines": []
+        },
+        {
+            "id": "133",
+            "image_url": "https://www.flashscore.com/res/image/data/Stkn5dyS-hU4TuAJu.png",
+            "name": "Fabio Fognini",
+            "position": "T",
+            "team": "Fabio Fognini",
+            "lines": []
+        },
+        {
+            "id": "74089",
+            "image_url": "https://www.flashscore.com/res/image/data/UVD79kXg-hI8rc03T.png",
+            "name": "Tomas Martin Etcheverry",
+            "position": "T",
+            "team": "Tomas Martin Etcheverry",
+            "lines": []
+        },
+        {
+            "id": "145948",
+            "image_url": "https://static.flashscore.com/res/image/data/WC5sGiHG-bovs6bo9.png",
+            "name": "Evgeniya Rodina",
+            "position": "T",
+            "team": "Evgeniya Rodina",
+            "lines": []
+        },
+        {
+            "id": "288",
+            "image_url": "https://www.flashscore.com/res/image/data/KMuBc6HG-Yk3KbfI5.png",
+            "name": "Daria Kasatkina",
+            "position": "T",
+            "team": "Daria Kasatkina",
+            "lines": []
+        },
+        {
+            "id": "95565",
+            "image_url": "https://www.flashscore.com/res/image/data/ppZTdeh5-lK8Ke86E.png",
+            "name": "Juan Pablo Varillas",
+            "position": "T",
+            "team": "Juan Pablo Varillas",
+            "lines": []
+        },
+        {
+            "id": "64776",
+            "image_url": "https://www.flashscore.com/res/image/data/6aMDtJcM-K2FeGexL.png",
+            "name": "Pedro Cachin",
+            "position": "T",
+            "team": "Pedro Cachin",
+            "lines": []
+        },
+        {
+            "id": "138",
+            "image_url": "https://www.flashscore.com/res/image/data/0dizDbYA-bNsW1eVL.png",
+            "name": "Dusan Lajovic",
+            "position": "T",
+            "team": "Dusan Lajovic",
+            "lines": []
+        },
+        {
+            "id": "60727",
+            "image_url": "https://www.flashscore.com/res/image/data/8YCMaEYA-tn3cPbyh.png",
+            "name": "Cristina Bucsa",
+            "position": "T",
+            "team": "Cristina Bucsa",
+            "lines": []
+        },
+        {
+            "id": "59011",
+            "image_url": "https://www.flashscore.com/res/image/data/QaV8j6EG-QBrpxD0E.png",
+            "name": "Taro Daniel",
+            "position": "T",
+            "team": "Taro Daniel",
+            "lines": []
+        },
+        {
+            "id": "141788",
+            "image_url": "https://static.flashscore.com/res/image/data/xv41LQzB-M9EV23Hp.png",
+            "name": "Olga Danilovic",
+            "position": "T",
+            "team": "Olga Danilovic",
+            "lines": []
+        },
+        {
+            "id": "92913",
+            "image_url": "https://www.flashscore.com/res/image/data/A9aEyacM-2mWAyYEb.png",
+            "name": "Lucia Bronzetti",
+            "position": "T",
+            "team": "Lucia Bronzetti",
+            "lines": []
+        },
+        {
+            "id": "101",
+            "image_url": "https://www.flashscore.com/res/image/data/tO5cePjl-UHUcqead.png",
+            "name": "Alexander Zverev",
+            "position": "T",
+            "team": "Alexander Zverev",
+            "lines": []
+        },
+        {
+            "id": "44468",
+            "image_url": "https://www.flashscore.com/res/image/data/juHmCRzS-OGaImkR1.png",
+            "name": "Emil Ruusuvuori",
+            "position": "T",
+            "team": "Emil Ruusuvuori",
+            "lines": []
+        },
+        {
+            "id": "125169",
+            "image_url": "https://www.flashscore.com/res/image/data/GGqezUCr-4xbCJagD.png",
+            "name": "Emma Navarro",
+            "position": "T",
+            "team": "Emma Navarro",
+            "lines": []
+        },
+        {
+            "id": "60725",
+            "image_url": "https://www.flashscore.com/res/image/data/C00XoKfM-4hhxqfni.png",
+            "name": "Anna Bondar",
+            "position": "T",
+            "team": "Anna Bondar",
+            "lines": []
+        },
+        {
+            "id": "95563",
+            "image_url": "https://www.flashscore.com/res/image/data/EsSbrGhl-61GTcIxm.png",
+            "name": "Dominic Stricker",
+            "position": "T",
+            "team": "Dominic Stricker",
+            "lines": []
+        }
+    ],
+    "NFLSZN": [
+        "163",
+        {
+            "id": "69474",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Micah_Parsons_b4eab0bf-9e1f-43f8-912f-d33ac517bc46.webp\t",
+            "name": "Micah Parsons\t",
+            "position": "LB",
+            "team": "DAL",
+            "lines": []
+        },
+        {
+            "id": "64216",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Marquise_Brown_feeee40a-dd63-41a7-89cd-6c95b5456833.webp",
+            "name": "Marquise Brown",
+            "position": "WR",
+            "team": "ARI",
+            "lines": []
+        },
+        {
+            "id": "64217",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Drake_London_5053f9ae-15d9-4730-833d-484886b6f890.webp\t",
+            "name": "Drake London",
+            "position": "WR",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "38822",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20868.png",
+            "name": "Alexander Mattison",
+            "position": "RB",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "142676",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Rachaad_White_4d3f2f57-215c-4cb4-bf75-a7ecdcdded70.webp",
+            "name": "Rachaad White",
+            "position": "RB",
+            "team": "TB",
+            "lines": []
+        },
+        {
+            "id": "145926",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Leonard_Floyd_13c4b449-65e4-4a3e-9152-85e9cbb2b8c6.webp",
+            "name": "Leonard Floyd",
+            "position": "LB",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "38954",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19863.png",
+            "name": "Dallas Goedert",
+            "position": "TE",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "38711",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21685.png",
+            "name": "Justin Jefferson",
+            "position": "WR",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "140500",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Lions.png",
+            "name": "Jahmyr Gibbs",
+            "position": "RB",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "69456",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Lions.png",
+            "name": "Aidan Hutchinson",
+            "position": "DE",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "69457",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Brian_Burns_dbf199a9-542e-4279-8764-3341b9f80910.png\t",
+            "name": "Brian Burns",
+            "position": "DE",
+            "team": "CAR",
+            "lines": []
+        },
+        {
+            "id": "38684",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21677.png",
+            "name": "Tua Tagovailoa",
+            "position": "QB",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "39134",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15076.png",
+            "name": "Keenan Allen",
+            "position": "WR",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "38583",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21768.png",
+            "name": "Najee Harris",
+            "position": "RB",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "64224",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/George_Pickens_018e8f25-54e5-44f1-967a-7ff237f1c52f.webp\t",
+            "name": "George Pickens",
+            "position": "WR",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "64219",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Treylon_Burks_45763342-0208-46ab-a5d2-6c6e4ff66b66.webp",
+            "name": "Treylon Burks",
+            "position": "WR",
+            "team": "TEN",
+            "lines": []
+        },
+        {
+            "id": "145937",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Frank_Clark_490c15eb-accc-4441-be7d-c7114e1e42fc.webp",
+            "name": "Frank Clark",
+            "position": "DE",
+            "team": "DEN",
+            "lines": []
+        },
+        {
+            "id": "145924",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Alex_Highsmith_3f4025d1-5782-43e4-9f42-8eee2da66a95.webp\t",
+            "name": "Alex Highsmith",
+            "position": "LB",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "142681",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Marquez_Valdes-Scantling_e7f0a505-8060-403e-a3b3-9d4e88dda1dc.png\t",
+            "name": "Marquez Valdes-Scantling",
+            "position": "WR",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "39092",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18983.png",
+            "name": "James Conner",
+            "position": "RB",
+            "team": "ARI",
+            "lines": []
+        },
+        {
+            "id": "145935",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Sam_Hubbard_17d1f9ee-f65e-4c4d-bf73-a69b2fa17877.webp\t",
+            "name": "Sam Hubbard",
+            "position": "DE",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "38585",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22508.png",
+            "name": "Kyle Pitts",
+            "position": "TE",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "140504",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Vikings.png",
+            "name": "Jordan Addison",
+            "position": "WR",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "69252",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Justin_Fields_cf15be8f-9117-4531-a517-2b9c7cb3e9e1.png\t",
+            "name": "Justin Fields",
+            "position": "QB",
+            "team": "CHI",
+            "lines": []
+        },
+        {
+            "id": "38754",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20873.png",
+            "name": "Terry McLaurin",
+            "position": "WR",
+            "team": "WAS",
+            "lines": []
+        },
+        {
+            "id": "140499",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Seahawks.png",
+            "name": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "142595",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22614.png",
+            "name": "Kadarius Toney",
+            "position": "WR",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "142677",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Brian_Robinson_795f636e-6f7f-4bc7-a346-2862272abead.webp\t",
+            "name": "Brian Robinson",
+            "position": "RB",
+            "team": "WAS",
+            "lines": []
+        },
+        {
+            "id": "38717",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21692.png",
+            "name": "Jerry Jeudy",
+            "position": "WR",
+            "team": "DEN",
+            "lines": []
+        },
+        {
+            "id": "142671",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Miles_Sanders_ef3ceaf4-b733-4e06-a7f4-a94fc67361c1.webp\t",
+            "name": "Miles Sanders",
+            "position": "RB",
+            "team": "CAR",
+            "lines": []
+        },
+        {
+            "id": "69249",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/_St._Brown_26ef0447-29b8-4dd1-9831-dcbf8132bb74.webp\t",
+            "name": "Amon-Ra St. Brown\t",
+            "position": "WR",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "69482",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16883.png",
+            "name": "Za'Darius Smith\t",
+            "position": "OLB",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "64214",
+            "image_url": "https://i.imgur.com/rnlIilX.png",
+            "name": "Kenneth Walker III",
+            "position": "RB",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "38786",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21077.png",
+            "name": "Diontae Johnson",
+            "position": "WR",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "38715",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21744.png",
+            "name": "Michael Pittman Jr.",
+            "position": "WR",
+            "team": "IND",
+            "lines": []
+        },
+        {
+            "id": "39259",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19800.png",
+            "name": "Courtland Sutton",
+            "position": "WR",
+            "team": "DEN",
+            "lines": []
+        },
+        {
+            "id": "142594",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18912.png",
+            "name": "Evan Engram",
+            "position": "TE",
+            "team": "JAX",
+            "lines": []
+        },
+        {
+            "id": "38685",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21690.png",
+            "name": "Tee Higgins",
+            "position": "WR",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "38670",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21831.png",
+            "name": "Jalen Hurts",
+            "position": "QB",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "17579",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17915.png",
+            "name": "Joey Bosa",
+            "position": "DE",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "38736",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18857.png",
+            "name": "Deshaun Watson",
+            "position": "QB",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "64215",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/A.J._Brown_a9e580f2-1fbe-46fb-887c-c84089b507e4.webp",
+            "name": "AJ Brown",
+            "position": "WR",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "38928",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19803.png",
+            "name": "Mark Andrews",
+            "position": "TE",
+            "team": "BAL",
+            "lines": []
+        },
+        {
+            "id": "142673",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Dameon_Pierce_5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e.webp\t",
+            "name": "Dameon Pierce",
+            "position": "RB",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "69469",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Giants.png",
+            "name": "Kayvon Thibodeaux\t",
+            "position": "DE",
+            "team": "NYG",
+            "lines": []
+        },
+        {
+            "id": "38588",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21687.png",
+            "name": "Devonta Smith",
+            "position": "WR",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "39181",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18055.png",
+            "name": "Dak Prescott",
+            "position": "QB",
+            "team": "DAL",
+            "lines": []
+        },
+        {
+            "id": "145938",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Texans.png",
+            "name": "Will Anderson",
+            "position": "DE",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "39142",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Odell_Beckham_354dec38-b88b-4ba0-8974-859123f27c45.webp\t",
+            "name": "Odell Beckham Jr.",
+            "position": "WR",
+            "team": "BAL",
+            "lines": []
+        },
+        {
+            "id": "38668",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21735.png",
+            "name": "Gabriel Davis",
+            "position": "WR",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "38975",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18914.png",
+            "name": "Mike Williams",
+            "position": "WR",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "142685",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Allen_Lazard_6a23db75-021b-4808-99e6-21a33d34202b.webp\t",
+            "name": "Allen Lazard",
+            "position": "WR",
+            "team": "NYJ",
+            "lines": []
+        },
+        {
+            "id": "142601",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18877.png",
+            "name": "Christian McCaffrey",
+            "position": "RB",
+            "team": "SF",
+            "lines": []
+        },
+        {
+            "id": "38932",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19207.png",
+            "name": "Tim Patrick",
+            "position": "WR",
+            "team": "DEN",
+            "lines": []
+        },
+        {
+            "id": "38998",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19063.png",
+            "name": "George Kittle",
+            "position": "TE",
+            "team": "SF",
+            "lines": []
+        },
+        {
+            "id": "38706",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21747.png",
+            "name": "Brandon Aiyuk",
+            "position": "WR",
+            "team": "SF",
+            "lines": []
+        },
+        {
+            "id": "142596",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19844.png",
+            "name": "D.J. Moore",
+            "position": "WR",
+            "team": "CHI",
+            "lines": []
+        },
+        {
+            "id": "142672",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/David_Montgomery_1c9e1cd5-8cb1-4a15-a2c8-3a0c0fd5423c.webp\t",
+            "name": "David Montgomery",
+            "position": "RB",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "69459",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Chandler_Jones_5197def5-f444-4561-ad28-7aac10dc748e.webp\t",
+            "name": "Chandler Jones",
+            "position": "DE",
+            "team": "LV",
+            "lines": []
+        },
+        {
+            "id": "39240",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19798.png",
+            "name": "Nick Chubb",
+            "position": "RB",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "145925",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Jaelan_Phillips_2e0122de-812b-44fa-8bf9-084695be95e3.webp\t",
+            "name": "Jaelan Phillips",
+            "position": "LB",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "17867",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16323.png",
+            "name": "Khalil Mack",
+            "position": "OLB",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "39131",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15048.png",
+            "name": "Travis Kelce",
+            "position": "TE",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "142599",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18883.png",
+            "name": "JuJu Smith-Schuster",
+            "position": "WR",
+            "team": "NE",
+            "lines": []
+        },
+        {
+            "id": "38728",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17959.png",
+            "name": "Derrick Henry",
+            "position": "RB",
+            "team": "TEN",
+            "lines": []
+        },
+        {
+            "id": "38992",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19045.png",
+            "name": "Aaron Jones",
+            "position": "RB",
+            "team": "GB",
+            "lines": []
+        },
+        {
+            "id": "39271",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18858.png",
+            "name": "Joe Mixon",
+            "position": "RB",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "38774",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20875.png",
+            "name": "DK Metcalf",
+            "position": "WR",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "64221",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Christian_Watson_47d97f44-b4aa-46d2-816c-5b5a1fe48d46.webp\t",
+            "name": "Christian Watson",
+            "position": "WR",
+            "team": "GB",
+            "lines": []
+        },
+        {
+            "id": "140303",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Panthers.png",
+            "name": "Bryce Young",
+            "position": "QB",
+            "team": "CAR",
+            "lines": []
+        },
+        {
+            "id": "142683",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Jahan_Dotson_d4a7917d-f327-431b-9b87-83af341c3e21.webp\t",
+            "name": "Jahan Dotson",
+            "position": "WR",
+            "team": "WAS",
+            "lines": []
+        },
+        {
+            "id": "140503",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Ravens.png",
+            "name": "Zay Flowers",
+            "position": "WR",
+            "team": "BAL",
+            "lines": []
+        },
+        {
+            "id": "39145",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14986.png",
+            "name": "DeAndre Hopkins",
+            "position": "WR",
+            "team": "TEN",
+            "lines": []
+        },
+        {
+            "id": "69472",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21015.png\t",
+            "name": "Maxx Crosby ",
+            "position": "DE",
+            "team": "LV",
+            "lines": []
+        },
+        {
+            "id": "39285",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19781.png",
+            "name": "Lamar Jackson",
+            "position": "QB",
+            "team": "BAL",
+            "lines": []
+        },
+        {
+            "id": "38586",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22564.png",
+            "name": "Ja'Marr Chase",
+            "position": "WR",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "17557",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18916.png",
+            "name": "T.J. Watt",
+            "position": "OLB",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "142684",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Lions.png",
+            "name": "Sam LaPorta",
+            "position": "TE",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "142674",
+            "image_url": "https://i.imgur.com/t1wJLOK.png",
+            "name": "Isiah Pacheco",
+            "position": "RB",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "17570",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13338.png",
+            "name": "Cameron Jordan",
+            "position": "DE",
+            "team": "NO",
+            "lines": []
+        },
+        {
+            "id": "142162",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Desmond_Ridder_6bf35760-217c-401d-b80b-2ae7cc5d7564.webp",
+            "name": "Desmond Ridder",
+            "position": "QB",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "38581",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22490.png",
+            "name": "Trevor Lawrence",
+            "position": "QB",
+            "team": "JAX",
+            "lines": []
+        },
+        {
+            "id": "17598",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20713.png",
+            "name": "Nick Bosa",
+            "position": "DE",
+            "team": "SF",
+            "lines": []
+        },
+        {
+            "id": "39063",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16906.png",
+            "name": "Stefon Diggs",
+            "position": "WR",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "145936",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/George_Karlaftis_afb1f463-400e-4bdb-9028-717a563ba6f4.webp\t",
+            "name": "George Karlaftis\t",
+            "position": "DE",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "145939",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Raiders.png\t",
+            "name": "Tyree Wilson",
+            "position": "DE",
+            "team": "LV",
+            "lines": []
+        },
+        {
+            "id": "142156",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Colts.png",
+            "name": "Anthony Richardson",
+            "position": "QB",
+            "team": "IND",
+            "lines": []
+        },
+        {
+            "id": "142163",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Kenny_Pickett_ef7ae1f1-4ebe-4759-bbb3-32bd177ace08.webp",
+            "name": "Kenny Pickett",
+            "position": "QB",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "145931",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Seahawks.png",
+            "name": "Uchenna Nwosa",
+            "position": "LB",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "38737",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19781.png",
+            "name": "Lamar Jackson",
+            "position": "QB",
+            "team": "BAL",
+            "lines": []
+        },
+        {
+            "id": "39083",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16830.png",
+            "name": "Tyler Lockett",
+            "position": "WR",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "39194",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18082.png",
+            "name": "Tyreek Hill",
+            "position": "WR",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "38587",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22598.png",
+            "name": "Jaylen Waddle",
+            "position": "WR",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "38676",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21744.png",
+            "name": "Michael Pittman Jr.",
+            "position": "WR",
+            "team": "IND",
+            "lines": []
+        },
+        {
+            "id": "39270",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20841.png",
+            "name": "Daniel Jones",
+            "position": "QB",
+            "team": "NYG",
+            "lines": []
+        },
+        {
+            "id": "142161",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Jordan_Love_e5094779-e94f-4052-8597-bdbee3719f6b.webp\t",
+            "name": "Jordan Love",
+            "position": "QB",
+            "team": "GB",
+            "lines": []
+        },
+        {
+            "id": "50163",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/22496.png",
+            "name": "Mac Jones",
+            "position": "QB",
+            "team": "NE",
+            "lines": []
+        },
+        {
+            "id": "39125",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16470.png",
+            "name": "Davante Adams",
+            "position": "WR",
+            "team": "LV",
+            "lines": []
+        },
+        {
+            "id": "38701",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21674.png",
+            "name": "J.K. Dobbins",
+            "position": "RB",
+            "team": "BAL",
+            "lines": []
+        },
+        {
+            "id": "38700",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21682.png",
+            "name": "Jonathan Taylor",
+            "position": "RB",
+            "team": "IND",
+            "lines": []
+        },
+        {
+            "id": "140386",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Falcons.png",
+            "name": "Bijan Robinson",
+            "position": "RB",
+            "team": "ATL",
+            "lines": []
+        },
+        {
+            "id": "39139",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14252.png",
+            "name": "Kirk Cousins",
+            "position": "QB",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "38902",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20850.png",
+            "name": "Dawson Knox",
+            "position": "TE",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "142680",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Van_Jefferson_8e1285f7-6e4c-41e4-aac9-92e09f9f32b2.webp\t",
+            "name": "Van Jefferson",
+            "position": "WR",
+            "team": "LA",
+            "lines": []
+        },
+        {
+            "id": "69479",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Trey_Hendrickson_41d217b9-ec7b-4d72-8a0a-5f0e3a16b693.webp\t",
+            "name": "Trey Hendrickson\t",
+            "position": "DE",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "39132",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14536.png",
+            "name": "Russell Wilson",
+            "position": "QB",
+            "team": "DEN",
+            "lines": []
+        },
+        {
+            "id": "39115",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17922.png",
+            "name": "Jared Goff",
+            "position": "QB",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "140502",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Chargers.png",
+            "name": "Quentin Johnston ",
+            "position": "WR",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "140378",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Texans.png",
+            "name": "C.J. Stroud",
+            "position": "QB",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "140238",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/2593.png",
+            "name": "Aaron Rodgers",
+            "position": "QB",
+            "team": "NYJ",
+            "lines": []
+        },
+        {
+            "id": "145932",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Preston_Smith_ede260be-5ae6-4a06-887b-e4a130932705.webp\t",
+            "name": "Preston Smith",
+            "position": "LB",
+            "team": "GB",
+            "lines": []
+        },
+        {
+            "id": "38719",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21693.png",
+            "name": "Joe Burrow",
+            "position": "QB",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "64218",
+            "image_url": "https://i.imgur.com/YDC3qCS.png",
+            "name": "Garrett Wilson",
+            "position": "WR",
+            "team": "NYJ",
+            "lines": []
+        },
+        {
+            "id": "38937",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19562.png",
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "38702",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21688.png",
+            "name": "Cam Akers",
+            "position": "RB",
+            "team": "LA",
+            "lines": []
+        },
+        {
+            "id": "39102",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18032.png",
+            "name": "Tyler Higbee",
+            "position": "TE",
+            "team": "LA",
+            "lines": []
+        },
+        {
+            "id": "142678",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/James_Cook_ce5de0e5-9f76-42ee-b93a-3ef88af9b0a7.webp",
+            "name": "James Cook",
+            "position": "RB",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "145934",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Josh_Sweat_66a67b5d-500d-46e8-90c6-e2f127d38190.webp",
+            "name": "Josh Sweat",
+            "position": "DE",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "145928",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Bradley_Chubb_66313049-299d-4e58-beb9-8e051ab6548a.webp\t",
+            "name": "Bradley Chubb",
+            "position": "LB",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "145933",
+            "image_url": "https://sport-images.prizepicks.com/2022%20Team%20Avatars/NFL%20Helmet/Bills.png",
+            "name": "Gregory Rousseau",
+            "position": "LB",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "64220",
+            "image_url": "https://i.imgur.com/H7sV1AY.png",
+            "name": "Chris Olave",
+            "position": "WR",
+            "team": "NO",
+            "lines": []
+        },
+        {
+            "id": "17568",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18807.png",
+            "name": "Myles Garrett",
+            "position": "DE",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "39067",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18880.png",
+            "name": "Chris Godwin",
+            "position": "WR",
+            "team": "TB",
+            "lines": []
+        },
+        {
+            "id": "38584",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21696.png",
+            "name": "Travis Etienne Jr.",
+            "position": "RB",
+            "team": "JAX",
+            "lines": []
+        },
+        {
+            "id": "39180",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19801.png",
+            "name": "Josh Allen",
+            "position": "QB",
+            "team": "BUF",
+            "lines": []
+        },
+        {
+            "id": "38664",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21802.png",
+            "name": "A.J. Dillon",
+            "position": "RB",
+            "team": "GB",
+            "lines": []
+        },
+        {
+            "id": "145941",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Haason_Reddick_ee399a97-6868-4db1-9381-09073914c2d6.webp\t",
+            "name": "Haason Reddick\t",
+            "position": "LB",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "142597",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16964.png",
+            "name": "Darren Waller",
+            "position": "TE",
+            "team": "NYG",
+            "lines": []
+        },
+        {
+            "id": "64213",
+            "image_url": "https://i.imgur.com/hiysxAi.png",
+            "name": "Breece Hall",
+            "position": "RB",
+            "team": "NYJ",
+            "lines": []
+        },
+        {
+            "id": "39095",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17986.png",
+            "name": "Tyler Boyd",
+            "position": "WR",
+            "team": "CIN",
+            "lines": []
+        },
+        {
+            "id": "142158",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16311.png",
+            "name": "Derek Carr",
+            "position": "QB",
+            "team": "NO",
+            "lines": []
+        },
+        {
+            "id": "39015",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17959.png",
+            "name": "Derrick Henry",
+            "position": "RB",
+            "team": "TEN",
+            "lines": []
+        },
+        {
+            "id": "38780",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20932.png",
+            "name": "Deebo Samuel",
+            "position": "WR",
+            "team": "SF",
+            "lines": []
+        },
+        {
+            "id": "69470",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18064.png\t",
+            "name": "Matthew Judon\t",
+            "position": "OLB",
+            "team": "NE",
+            "lines": []
+        },
+        {
+            "id": "38718",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21679.png",
+            "name": "CeeDee Lamb",
+            "position": "WR",
+            "team": "DAL",
+            "lines": []
+        },
+        {
+            "id": "142598",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19802.png",
+            "name": "Calvin Ridley",
+            "position": "WR",
+            "team": "JAX",
+            "lines": []
+        },
+        {
+            "id": "39078",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18890.png",
+            "name": "Patrick Mahomes",
+            "position": "QB",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "142682",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Pat_Freiermuth_04f0fefe-9d9d-44f5-94ea-6df2a42df3c6.webp",
+            "name": "Pat Freiermuth",
+            "position": "TE",
+            "team": "PIT",
+            "lines": []
+        },
+        {
+            "id": "39113",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16765.png",
+            "name": "Amari Cooper",
+            "position": "WR",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "39191",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18857.png",
+            "name": "Deshaun Watson",
+            "position": "QB",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "39079",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15534.png",
+            "name": "Adam Thielen",
+            "position": "WR",
+            "team": "CAR",
+            "lines": []
+        },
+        {
+            "id": "39106",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18882.png",
+            "name": "Cooper Kupp",
+            "position": "WR",
+            "team": "LA",
+            "lines": []
+        },
+        {
+            "id": "38693",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21681.png",
+            "name": "Justin Herbert",
+            "position": "QB",
+            "team": "LAC",
+            "lines": []
+        },
+        {
+            "id": "38879",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20912.png",
+            "name": "Tony Pollard",
+            "position": "RB",
+            "team": "DAL",
+            "lines": []
+        },
+        {
+            "id": "39238",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18876.png",
+            "name": "David Njoku",
+            "position": "TE",
+            "team": "CLE",
+            "lines": []
+        },
+        {
+            "id": "39257",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14895.png",
+            "name": "Geno Smith",
+            "position": "QB",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "39174",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19815.png",
+            "name": "Christian Kirk",
+            "position": "WR",
+            "team": "JAX",
+            "lines": []
+        },
+        {
+            "id": "142675",
+            "image_url": "https://static.prizepicks.com/images/players/nfl/Rhamondre_Stevenson_6260e78a-64e2-4f7e-9bf8-39948a17a370.webp\t",
+            "name": "Rhamondre Stevenson",
+            "position": "RB",
+            "team": "NE",
+            "lines": []
+        },
+        {
+            "id": "40905",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/9038.png",
+            "name": "Matthew Stafford",
+            "position": "QB",
+            "team": "LAR",
+            "lines": []
+        },
+        {
+            "id": "38864",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/20805.png",
+            "name": "T.J. Hockenson",
+            "position": "TE",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "38686",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/21684.png",
+            "name": "D'Andre Swift",
+            "position": "RB",
+            "team": "PHI",
+            "lines": []
+        },
+        {
+            "id": "142600",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14871.png",
+            "name": "Robert Woods",
+            "position": "WR",
+            "team": "HOU",
+            "lines": []
+        },
+        {
+            "id": "39091",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16597.png",
+            "name": "Mike Evans",
+            "position": "WR",
+            "team": "TB",
+            "lines": []
+        },
+        {
+            "id": "38878",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/19867.png",
+            "name": "Michael Gallup",
+            "position": "WR",
+            "team": "DAL",
+            "lines": []
+        }
+    ],
+    "SOCCER": [
+        "82",
+        {
+            "id": "66151",
+            "image_url": "https://i.imgur.com/TJJvyZX.png",
+            "name": "Matias Ezequiel Di Benedetto",
+            "position": "D",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "144206",
+            "image_url": "https://i.imgur.com/3L28GX6.png",
+            "name": "Carlos Palacios",
+            "position": "M",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "48673",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/90027771.png",
+            "name": "Lionel Messi",
+            "position": "F",
+            "team": "Miami",
+            "lines": []
+        },
+        {
+            "id": "43920",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/90037179.png",
+            "name": "Esteban Pavez",
+            "position": "M",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "143434",
+            "image_url": "https://i.imgur.com/wR0mpjg.png",
+            "name": "Iago Maidana",
+            "position": "D",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "145410",
+            "image_url": "https://i.imgur.com/uXhKQQx.png",
+            "name": "Leonardo Gil",
+            "position": "M",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "145892",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Piero Quispe",
+            "position": "M",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "145930",
+            "image_url": "https://i.imgur.com/IVwszMu.png",
+            "name": "Christine Sinclair",
+            "position": "F",
+            "team": "Canada",
+            "lines": []
+        },
+        {
+            "id": "144058",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Williams Riveros",
+            "position": "D",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "145220",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Gonzalo Mastriani",
+            "position": "F",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "144209",
+            "image_url": "https://i.imgur.com/nmVtdLf.png",
+            "name": "Fernando de Paul",
+            "position": "GK",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "39531",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Carlos Miguel",
+            "position": "GK",
+            "team": "Corinthians",
+            "lines": []
+        },
+        {
+            "id": "68802",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/0.png",
+            "name": "Ale",
+            "position": "M",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "145890",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Damián Pizarro",
+            "position": "F",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "145929",
+            "image_url": "https://i.imgur.com/DxM7NF6.png",
+            "name": "Sam Kerr",
+            "position": "F",
+            "team": "Australia",
+            "lines": []
+        },
+        {
+            "id": "144207",
+            "image_url": "https://i.imgur.com/nySBCpx.png",
+            "name": "Agustín Bouzat",
+            "position": "D",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "65665",
+            "image_url": "https://i.imgur.com/olJ2XKK.png",
+            "name": "Adson",
+            "position": "M",
+            "team": "Corinthians",
+            "lines": []
+        },
+        {
+            "id": "145420",
+            "image_url": "https://i.imgur.com/kC4rMgW.png",
+            "name": "Bruno Méndez",
+            "position": "D",
+            "team": "Corinthians",
+            "lines": []
+        },
+        {
+            "id": "40175",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/90037426.png",
+            "name": "José Carvallo",
+            "position": "GK",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "145894",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Pedro",
+            "position": "F",
+            "team": "Corinthians",
+            "lines": []
+        },
+        {
+            "id": "68799",
+            "image_url": "https://i.imgur.com/1sKgtP8.png",
+            "name": "Marlon Lopes",
+            "position": "D",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "65666",
+            "image_url": "https://i.imgur.com/Wfdn1eY.png",
+            "name": "Giuliano",
+            "position": "M",
+            "team": "Corinthians",
+            "lines": []
+        },
+        {
+            "id": "144208",
+            "image_url": "https://i.imgur.com/UnnIQbg.png",
+            "name": "Alan Saldivia",
+            "position": "D",
+            "team": "Colo Colo",
+            "lines": []
+        },
+        {
+            "id": "61529",
+            "image_url": "https://i.imgur.com/mXsnEEu.png",
+            "name": "Mateus Pasinato",
+            "position": "GK",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "145221",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Martín Benítez",
+            "position": "M",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "145893",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Rodrigo Ureña",
+            "position": "M",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "41036",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/90037420.png",
+            "name": "Andy Polo",
+            "position": "M",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "64876",
+            "image_url": "https://i.imgur.com/B5O6cMR.png",
+            "name": "Edison Flores",
+            "position": "M",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "145889",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Rodrigo Varanda",
+            "position": "F",
+            "team": "America Mineiro",
+            "lines": []
+        },
+        {
+            "id": "145927",
+            "image_url": "https://i.imgur.com/oR6ym3S.png",
+            "name": "Ada Hegerberg",
+            "position": "F",
+            "team": "Norway",
+            "lines": []
+        },
+        {
+            "id": "61805",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/90037403.png",
+            "name": "Ángel Romero",
+            "position": "M",
+            "team": "Corinthians",
+            "lines": []
+        },
+        {
+            "id": "145891",
+            "image_url": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/soc/low-res/0.png",
+            "name": "Luis Urruti",
+            "position": "F",
+            "team": "Universitario",
+            "lines": []
+        },
+        {
+            "id": "67870",
+            "image_url": "https://i.imgur.com/ZAX66NN.png",
+            "name": "Maycon",
+            "position": "F",
+            "team": "Corinthians",
+            "lines": []
+        }
+    ],
+    "CSGO": [
+        "124",
+        {
+            "id": "2891",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/SPIRIT%20M4.png",
+            "name": "tabseN",
+            "position": "G",
+            "team": "BIG",
+            "lines": []
+        },
+        {
+            "id": "93084",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEXUS%20M4.png",
+            "name": "kensizor",
+            "position": "G",
+            "team": "IKLA UA",
+            "lines": []
+        },
+        {
+            "id": "44336",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEXUS%20M4.png",
+            "name": "smekk-",
+            "position": "G",
+            "team": "Nexus",
+            "lines": []
+        },
+        {
+            "id": "38325",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FUNPLUS%20PHOENIX%20M4.png",
+            "name": "anarkez",
+            "position": "G",
+            "team": "ECLOT",
+            "lines": []
+        },
+        {
+            "id": "61040",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FUNPLUS%20PHOENIX%20M4.png",
+            "name": "Dytor",
+            "position": "G",
+            "team": "ECLOT",
+            "lines": []
+        },
+        {
+            "id": "79019",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEMIGA%20M4.png",
+            "name": "1NVISIBLEE",
+            "position": "G",
+            "team": "ARCRED",
+            "lines": []
+        },
+        {
+            "id": "56932",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/K23%20M4.png",
+            "name": "Anlelele",
+            "position": "G",
+            "team": "Espionage",
+            "lines": []
+        },
+        {
+            "id": "59954",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FIEND%20M4.png",
+            "name": "brutmonster",
+            "position": "G",
+            "team": "Zero Tenacity",
+            "lines": []
+        },
+        {
+            "id": "58047",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NIP%20M4.png",
+            "name": "headtr1ck",
+            "position": "G",
+            "team": "Ninjas in Pyjamas",
+            "lines": []
+        },
+        {
+            "id": "62458",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FUNPLUS%20PHOENIX%20M4.png",
+            "name": "nbqq",
+            "position": "G",
+            "team": "ECLOT",
+            "lines": []
+        },
+        {
+            "id": "59766",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEMIGA%20M4.png",
+            "name": "fozil",
+            "position": "G",
+            "team": "HYDRA",
+            "lines": []
+        },
+        {
+            "id": "58654",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/MAD%20LIONS%20M4.png",
+            "name": "Flayy",
+            "position": "G",
+            "team": "ThunderFlash",
+            "lines": []
+        },
+        {
+            "id": "89269",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/MAD%20LIONS%20M4.png",
+            "name": "ex1st",
+            "position": "G",
+            "team": "ThunderFlash",
+            "lines": []
+        },
+        {
+            "id": "56876",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FIEND%20M4.png",
+            "name": "Enzo",
+            "position": "G",
+            "team": "los kogutos",
+            "lines": []
+        },
+        {
+            "id": "16529",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NATUS%20VINCERE%20M4.png",
+            "name": "iM",
+            "position": "G",
+            "team": "Natus Vincere",
+            "lines": []
+        },
+        {
+            "id": "15492",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/K23%20M4.png",
+            "name": "Lucky",
+            "position": "G",
+            "team": "Espionage",
+            "lines": []
+        },
+        {
+            "id": "15178",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/COMPLEXITY%20M4.png",
+            "name": "EliGE",
+            "position": "G",
+            "team": "Complexity",
+            "lines": []
+        },
+        {
+            "id": "93710",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/HONORIS%20M4.png",
+            "name": "Burmylov",
+            "position": "G",
+            "team": "Lazer Cats",
+            "lines": []
+        },
+        {
+            "id": "74218",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEMIGA%20M4.png\t",
+            "name": "shg",
+            "position": "G",
+            "team": "ARCRED",
+            "lines": []
+        },
+        {
+            "id": "56445",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/HAVU%20M4.png",
+            "name": "Banjo",
+            "position": "G",
+            "team": "HAVU",
+            "lines": []
+        },
+        {
+            "id": "58655",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEXUS%20M4.png",
+            "name": "adamS",
+            "position": "G",
+            "team": "Nexus",
+            "lines": []
+        },
+        {
+            "id": "20107",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NORDAVIND%20M4.png",
+            "name": "nosraC",
+            "position": "G",
+            "team": "Nouns",
+            "lines": []
+        },
+        {
+            "id": "15070",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/COMPLEXITY%20M4.png",
+            "name": "floppy",
+            "position": "G",
+            "team": "Complexity",
+            "lines": []
+        },
+        {
+            "id": "42794",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/SPIRIT%20M4.png",
+            "name": "prosus",
+            "position": "G",
+            "team": "BIG",
+            "lines": []
+        },
+        {
+            "id": "39383",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEXUS%20M4.png",
+            "name": "ragga",
+            "position": "G",
+            "team": "Nexus",
+            "lines": []
+        },
+        {
+            "id": "49996",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FURIA%20M4.png",
+            "name": "fleav",
+            "position": "G",
+            "team": "DomiNation",
+            "lines": []
+        },
+        {
+            "id": "123601",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NORDAVIND%20M4.png",
+            "name": "Qlocuu",
+            "position": "G",
+            "team": "Singularity",
+            "lines": []
+        },
+        {
+            "id": "15233",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NATUS%20VINCERE%20M4.png",
+            "name": "Aleksib",
+            "position": "G",
+            "team": "Natus Vincere",
+            "lines": []
+        },
+        {
+            "id": "16978",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NATUS%20VINCERE%20M4.png",
+            "name": "b1t",
+            "position": "G",
+            "team": "Natus Vincere",
+            "lines": []
+        },
+        {
+            "id": "53917",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEXUS%20M4.png",
+            "name": "byr9",
+            "position": "G",
+            "team": "IKLA UA",
+            "lines": []
+        },
+        {
+            "id": "56619",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FORZE%20M4.png",
+            "name": "freshie",
+            "position": "G",
+            "team": "Wildcard",
+            "lines": []
+        },
+        {
+            "id": "49875",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/HONORIS%20M4.png",
+            "name": "Hkta",
+            "position": "G",
+            "team": "Lazer Cats",
+            "lines": []
+        },
+        {
+            "id": "49142",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FIEND%20M4.png",
+            "name": "maaryy",
+            "position": "G",
+            "team": "los kogutos",
+            "lines": []
+        },
+        {
+            "id": "21189",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NIP%20M4.png",
+            "name": "hampus",
+            "position": "G",
+            "team": "Ninjas in Pyjamas",
+            "lines": []
+        },
+        {
+            "id": "16983",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/SPIRIT%20M4.png",
+            "name": "Krimbo",
+            "position": "G",
+            "team": "BIG",
+            "lines": []
+        },
+        {
+            "id": "56402",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/TEAMONE%20M4.png",
+            "name": "tN1R",
+            "position": "G",
+            "team": "Websterz",
+            "lines": []
+        },
+        {
+            "id": "56877",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FIEND%20M4.png",
+            "name": "darchevile",
+            "position": "G",
+            "team": "los kogutos",
+            "lines": []
+        },
+        {
+            "id": "15486",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/COMPLEXITY%20M4.png",
+            "name": "Grim",
+            "position": "G",
+            "team": "Complexity",
+            "lines": []
+        },
+        {
+            "id": "52815",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NORDAVIND%20M4.png",
+            "name": "Bwills",
+            "position": "G",
+            "team": "Nouns",
+            "lines": []
+        },
+        {
+            "id": "68852",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/MOUSESPORTS%20M4.png",
+            "name": "MoriiSko",
+            "position": "G",
+            "team": "Enterprise",
+            "lines": []
+        },
+        {
+            "id": "16961",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NATUS%20VINCERE%20M4.png",
+            "name": "jL",
+            "position": "G",
+            "team": "Natus Vincere",
+            "lines": []
+        },
+        {
+            "id": "58652",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/MAD%20LIONS%20M4.png",
+            "name": "bajmi",
+            "position": "G",
+            "team": "ThunderFlash",
+            "lines": []
+        },
+        {
+            "id": "60642",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/MOUSESPORTS%20M4.png",
+            "name": "zur1s",
+            "position": "G",
+            "team": "Enterprise",
+            "lines": []
+        },
+        {
+            "id": "59950",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FIEND%20M4.png",
+            "name": "nEMANHA",
+            "position": "G",
+            "team": "Zero Tenacity",
+            "lines": []
+        },
+        {
+            "id": "53529",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FORZE%20M4.png",
+            "name": "brett",
+            "position": "G",
+            "team": "Wildcard",
+            "lines": []
+        },
+        {
+            "id": "59952",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FIEND%20M4.png",
+            "name": "simke",
+            "position": "G",
+            "team": "Zero Tenacity",
+            "lines": []
+        },
+        {
+            "id": "79018",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEMIGA%20M4.png",
+            "name": "Ryujin",
+            "position": "G",
+            "team": "ARCRED",
+            "lines": []
+        },
+        {
+            "id": "15135",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NIP%20M4.png",
+            "name": "k0nfig",
+            "position": "G",
+            "team": "Ninjas in Pyjamas",
+            "lines": []
+        },
+        {
+            "id": "15236",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/SPIRIT%20M4.png",
+            "name": "mantuu",
+            "position": "G",
+            "team": "BIG",
+            "lines": []
+        },
+        {
+            "id": "61670",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FURIA%20M4.png",
+            "name": "Kamion",
+            "position": "G",
+            "team": "DomiNation",
+            "lines": []
+        },
+        {
+            "id": "15172",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NIP%20M4.png",
+            "name": "REZ",
+            "position": "G",
+            "team": "Ninjas in Pyjamas",
+            "lines": []
+        },
+        {
+            "id": "15067",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/COMPLEXITY%20M4.png",
+            "name": "JT",
+            "position": "G",
+            "team": "Complexity",
+            "lines": []
+        },
+        {
+            "id": "15154",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NIP%20M4.png",
+            "name": "Brollan",
+            "position": "G",
+            "team": "Ninjas in Pyjamas",
+            "lines": []
+        },
+        {
+            "id": "53326",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/SPIRIT%20M4.png",
+            "name": "s1n",
+            "position": "G",
+            "team": "BIG",
+            "lines": []
+        },
+        {
+            "id": "15074",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/HAVU%20M4.png",
+            "name": "ottoNd",
+            "position": "G",
+            "team": "HAVU",
+            "lines": []
+        },
+        {
+            "id": "15117",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/HAVU%20M4.png",
+            "name": "sLowi",
+            "position": "G",
+            "team": "HAVU",
+            "lines": []
+        },
+        {
+            "id": "60641",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/MOUSESPORTS%20M4.png",
+            "name": "SYSTEM",
+            "position": "G",
+            "team": "Enterprise",
+            "lines": []
+        },
+        {
+            "id": "123602",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NORDAVIND%20M4.png",
+            "name": "POLO",
+            "position": "G",
+            "team": "Singularity",
+            "lines": []
+        },
+        {
+            "id": "15253",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NORDAVIND%20M4.png",
+            "name": "MarKE",
+            "position": "G",
+            "team": "Nouns",
+            "lines": []
+        },
+        {
+            "id": "52714",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/TEAMONE%20M4.png",
+            "name": "sugaR",
+            "position": "G",
+            "team": "Websterz",
+            "lines": []
+        },
+        {
+            "id": "65239",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEXUS%20M4.png",
+            "name": "s4ltovsk1yy",
+            "position": "G",
+            "team": "IKLA UA",
+            "lines": []
+        },
+        {
+            "id": "57534",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/HONORIS%20M4.png",
+            "name": "t0kk",
+            "position": "G",
+            "team": "Lazer Cats",
+            "lines": []
+        },
+        {
+            "id": "16973",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/K23%20M4.png",
+            "name": "Cabbi",
+            "position": "G",
+            "team": "Espionage",
+            "lines": []
+        },
+        {
+            "id": "15081",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/COMPLEXITY%20M4.png",
+            "name": "hallzerk",
+            "position": "G",
+            "team": "Complexity",
+            "lines": []
+        },
+        {
+            "id": "125550",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEMIGA%20M4.png",
+            "name": "leri511",
+            "position": "G",
+            "team": "HYDRA",
+            "lines": []
+        },
+        {
+            "id": "123604",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NORDAVIND%20M4.png",
+            "name": "virtuoso",
+            "position": "G",
+            "team": "Singularity",
+            "lines": []
+        },
+        {
+            "id": "15168",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NATUS%20VINCERE%20M4.png",
+            "name": "s1mple",
+            "position": "G",
+            "team": "Natus Vincere",
+            "lines": []
+        },
+        {
+            "id": "53553",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FORZE%20M4.png",
+            "name": "SLIGHT",
+            "position": "G",
+            "team": "Wildcard",
+            "lines": []
+        },
+        {
+            "id": "15850",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/FURIA%20M4.png",
+            "name": "Aaron",
+            "position": "G",
+            "team": "DomiNation",
+            "lines": []
+        },
+        {
+            "id": "74245",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/NEMIGA%20M4.png",
+            "name": "TruNiQ",
+            "position": "G",
+            "team": "HYDRA",
+            "lines": []
+        },
+        {
+            "id": "78701",
+            "image_url": "https://sport-images.prizepicks.com/CSGO/M4s/TEAMONE%20M4.png",
+            "name": "znxxX",
+            "position": "G",
+            "team": "Websterz",
+            "lines": []
+        }
+    ],
+    "MLBLIVE": [
+        "231",
+        {
+            "id": "140779",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Dane_Dunning_f4c93b6c-749c-409a-bcd5-58fb2ef53246.webp",
+            "name": "Dane Dunning",
+            "position": "P",
+            "team": "TEX",
+            "lines": []
+        },
+        {
+            "id": "66661",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Logan_Gilbert_d3a08e67-05e9-4f54-b7b1-807c8e9beaf2.webp",
+            "name": "Logan Gilbert",
+            "position": "P",
+            "team": "SEA",
+            "lines": []
+        },
+        {
+            "id": "141924",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Paul_Blackburn_c967b600-efdf-46ae-bb37-f4940fa29b2a.webp",
+            "name": "Paul Blackburn",
+            "position": "P",
+            "team": "OAK",
+            "lines": []
+        },
+        {
+            "id": "127483",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Sonny_Gray_b004cc6c-f00c-4b5d-917a-ee1abf92179d.webp",
+            "name": "Sonny Gray",
+            "position": "P",
+            "team": "MIN",
+            "lines": []
+        },
+        {
+            "id": "127526",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/MacKenzie_Gore_6e4f47b4-6461-42c4-bb1a-5658b0649dfb.webp",
+            "name": "MacKenzie Gore",
+            "position": "P",
+            "team": "WSH",
+            "lines": []
+        },
+        {
+            "id": "138051",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Griffin_Canning_470b008b-639b-4f14-975b-1eb51d918358.webp",
+            "name": "Griffin Canning",
+            "position": "P",
+            "team": "LAA",
+            "lines": []
+        },
+        {
+            "id": "127320",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Jesús_Luzardo_9df8c4a7-8b6b-4478-8fd2-310bbd5e9d0d.webp",
+            "name": "Jesús Luzardo",
+            "position": "P",
+            "team": "MIA",
+            "lines": []
+        },
+        {
+            "id": "127484",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Jordan_Lyles_9dd06397-4353-44e8-81bb-6e88a75e42b5.webp",
+            "name": "Jordan Lyles",
+            "position": "P",
+            "team": "KC",
+            "lines": []
+        },
+        {
+            "id": "127624",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Drew_Smyly_1c6ebbc7-2df6-432f-960d-0e7162f3dd6d.webp",
+            "name": "Drew Smyly",
+            "position": "P",
+            "team": "CHC",
+            "lines": []
+        },
+        {
+            "id": "127220",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Shane_McClanahan_13812850-d32a-4e0a-9132-a3db2272834d.webp",
+            "name": "Shane McClanahan",
+            "position": "P",
+            "team": "TB",
+            "lines": []
+        },
+        {
+            "id": "87186",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Luis_Severino_fa34724d-b540-4705-9d2c-7f50f81865b3.webp",
+            "name": "Luis Severino",
+            "position": "P",
+            "team": "NYY",
+            "lines": []
+        },
+        {
+            "id": "127798",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Matt_Manning_a526a335-b798-4351-b1a1-ebeb96a21bd1.webp",
+            "name": "Matt Manning",
+            "position": "P",
+            "team": "DET",
+            "lines": []
+        },
+        {
+            "id": "127245",
+            "image_url": "https://static.prizepicks.com/images/players/mlb/Miles_Mikolas_262b24b7-ce98-4885-8715-2732a61db10d.webp",
+            "name": "Miles Mikolas",
+            "position": "P",
+            "team": "STL",
+            "lines": []
+        }
+    ],
+    "Dota2": [
+        "174",
+        {
+            "id": "53716",
+            "image_url": "https://i.imgur.com/OVl5uvy.png",
+            "name": "Monet",
+            "position": "1",
+            "team": "Aster",
+            "lines": []
+        },
+        {
+            "id": "87072",
+            "image_url": "https://i.imgur.com/MJX4pvm.png",
+            "name": "Ghost",
+            "position": "1",
+            "team": "XG",
+            "lines": []
+        },
+        {
+            "id": "80006",
+            "image_url": "https://i.imgur.com/u2aNd1v.png",
+            "name": "Parker",
+            "position": "1",
+            "team": "bc",
+            "lines": []
+        },
+        {
+            "id": "53712",
+            "image_url": "https://i.imgur.com/Vlsls7f.png",
+            "name": "Nisha",
+            "position": "2",
+            "team": "Liquid",
+            "lines": []
+        },
+        {
+            "id": "94115",
+            "image_url": "https://i.imgur.com/Cbt2oAt.png",
+            "name": "squad1x",
+            "position": "2",
+            "team": "VP",
+            "lines": []
+        },
+        {
+            "id": "64290",
+            "image_url": "https://i.imgur.com/JxNXWVx.png",
+            "name": "Armel",
+            "position": "2",
+            "team": "Secret",
+            "lines": []
+        },
+        {
+            "id": "64300",
+            "image_url": "https://i.imgur.com/u2aNd1v.png",
+            "name": "DarkMago",
+            "position": "2",
+            "team": "bc",
+            "lines": []
+        },
+        {
+            "id": "94002",
+            "image_url": "https://i.imgur.com/MJX4pvm.png",
+            "name": "Paparazi",
+            "position": "2",
+            "team": "XG",
+            "lines": []
+        },
+        {
+            "id": "79996",
+            "image_url": "https://i.imgur.com/JxNXWVx.png",
+            "name": "Crystallis",
+            "position": "1",
+            "team": "Secret",
+            "lines": []
+        },
+        {
+            "id": "64273",
+            "image_url": "https://i.imgur.com/Vlsls7f.png",
+            "name": "miCKe",
+            "position": "1",
+            "team": "Liquid",
+            "lines": []
+        },
+        {
+            "id": "69835",
+            "image_url": "https://i.imgur.com/1yRUdzY.png",
+            "name": "RAMZES666",
+            "position": "1",
+            "team": "9P",
+            "lines": []
+        },
+        {
+            "id": "94167",
+            "image_url": "https://i.imgur.com/aKxcltw.png",
+            "name": "Palos",
+            "position": "1",
+            "team": "XctN",
+            "lines": []
+        },
+        {
+            "id": "64263",
+            "image_url": "https://i.imgur.com/omLLpGn.png",
+            "name": "Yuragi",
+            "position": "1",
+            "team": "OG",
+            "lines": []
+        },
+        {
+            "id": "64264",
+            "image_url": "https://i.imgur.com/omLLpGn.png",
+            "name": "bzm",
+            "position": "2",
+            "team": "OG",
+            "lines": []
+        },
+        {
+            "id": "95804",
+            "image_url": "https://i.imgur.com/fyIaDHG.png",
+            "name": "TA2000",
+            "position": "1",
+            "team": "Quest",
+            "lines": []
+        },
+        {
+            "id": "125778",
+            "image_url": "https://i.imgur.com/1yRUdzY.png",
+            "name": "kiyotaka",
+            "position": "2",
+            "team": "9P",
+            "lines": []
+        },
+        {
+            "id": "94168",
+            "image_url": "https://i.imgur.com/aKxcltw.png",
+            "name": "Bob",
+            "position": "2",
+            "team": "XctN",
+            "lines": []
+        },
+        {
+            "id": "69831",
+            "image_url": "https://i.imgur.com/JxNXWVx.png",
+            "name": "Stormstormer",
+            "position": "2",
+            "team": "Entity",
+            "lines": []
+        },
+        {
+            "id": "94175",
+            "image_url": "https://i.imgur.com/JxNXWVx.png",
+            "name": "watson",
+            "position": "1",
+            "team": "Entity",
+            "lines": []
+        },
+        {
+            "id": "53736",
+            "image_url": "https://i.imgur.com/JxNXWVx.png",
+            "name": "Timado",
+            "position": "1",
+            "team": "TSM",
+            "lines": []
+        },
+        {
+            "id": "94128",
+            "image_url": "https://i.imgur.com/Cbt2oAt.png",
+            "name": "Kiritych",
+            "position": "1",
+            "team": "VP",
+            "lines": []
+        },
+        {
+            "id": "95805",
+            "image_url": "https://i.imgur.com/fyIaDHG.png",
+            "name": "No!ob",
+            "position": "2",
+            "team": "Quest",
+            "lines": []
+        },
+        {
+            "id": "53737",
+            "image_url": "https://i.imgur.com/JxNXWVx.png",
+            "name": "Bryle",
+            "position": "2",
+            "team": "TSM",
+            "lines": []
+        },
+        {
+            "id": "53746",
+            "image_url": "https://i.imgur.com/OVl5uvy.png",
+            "name": "SumaiL",
+            "position": "2",
+            "team": "Aster",
+            "lines": []
+        }
+    ],
+    "MMA": [
+        "12",
+        {
+            "id": "3517",
+            "image_url": "https://i.imgur.com/oWAvF6E.png",
+            "name": "Nathaniel Wood",
+            "position": "F",
+            "team": "\"The Prospect\"",
+            "lines": []
+        },
+        {
+            "id": "55020",
+            "image_url": "https://i.imgur.com/HDdKsa4.png",
+            "name": "Jai Herbert",
+            "position": "F",
+            "team": "Jai Herbert",
+            "lines": []
+        },
+        {
+            "id": "54161",
+            "image_url": "https://i.imgur.com/k3vg7n7.png",
+            "name": "Chris Duncan",
+            "position": "F",
+            "team": "\"The Problem\"",
+            "lines": []
+        },
+        {
+            "id": "3526",
+            "image_url": "https://i.imgur.com/Gy2zdvS.png",
+            "name": "Molly McCann",
+            "position": "F",
+            "team": "\"Meatball\"",
+            "lines": []
+        },
+        {
+            "id": "11842",
+            "image_url": "https://i.imgur.com/xaLAMvP.png",
+            "name": "Andre Muniz",
+            "position": "F",
+            "team": "\"Sergipano\"",
+            "lines": []
+        },
+        {
+            "id": "10277",
+            "image_url": "https://i.imgur.com/snulkw1.png",
+            "name": "Makhmud Muradov",
+            "position": "F",
+            "team": "\"Mach\"",
+            "lines": []
+        },
+        {
+            "id": "70189",
+            "image_url": "https://i.imgur.com/IjCifvj.png",
+            "name": "Jamal Pogues\t",
+            "position": "F",
+            "team": "Jamal Pogues\t",
+            "lines": []
+        },
+        {
+            "id": "12390",
+            "image_url": "https://i.imgur.com/9KipQPp.png",
+            "name": "Ketlen Vieira",
+            "position": "F",
+            "team": "\"Fenomeno\"",
+            "lines": []
+        },
+        {
+            "id": "75154",
+            "image_url": "https://i.imgur.com/V4euiJY.png",
+            "name": "Bruna Brasil",
+            "position": "F",
+            "team": "Bruna Brasil",
+            "lines": []
+        },
+        {
+            "id": "26847",
+            "image_url": "https://i.imgur.com/u7vatPG.png",
+            "name": "Lerone Murphy",
+            "position": "F",
+            "team": "All Powers Gym",
+            "lines": []
+        },
+        {
+            "id": "78986",
+            "image_url": "https://i.imgur.com/oO0xGck.png",
+            "name": "Jafel Filho\t",
+            "position": "F",
+            "team": "Jafel Filho\t",
+            "lines": []
+        },
+        {
+            "id": "16781",
+            "image_url": "https://i.imgur.com/gKRurfe.png",
+            "name": "Tom Aspinall",
+            "position": "F",
+            "team": "Team Kaobon",
+            "lines": []
+        },
+        {
+            "id": "4203",
+            "image_url": "https://i.imgur.com/aJOLCxZ.png",
+            "name": "Joel Alvarez",
+            "position": "F",
+            "team": "\"El Fenomeno\"",
+            "lines": []
+        },
+        {
+            "id": "145644",
+            "image_url": "https://i.imgur.com/J5VWXKo.png",
+            "name": "Daniel Marcos\t",
+            "position": "F",
+            "team": "Daniel Marcos\t",
+            "lines": []
+        }
+    ]
+}
